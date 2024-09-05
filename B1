@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>my first app</title>
+</head>
+
+<body>
+    <pre>
+<form name="F1" methode="post" action="action_page.php">
+First name:
+<input type="text" name="N1" maxlenth="30" size="20" title="enter text only" placeholder="enter your first name" required>
+Last name:
+<input type="text" name="N1" maxlenth="30" size="20" title="enter text only" placeholder="enter your Last name" require>
+Email ID :
+<input type="email" name="N1" maxlenth="30" size="20" title="enter text only" placeholder="abc@gmail.com" require>
+mobile number:
+<input type="mobile" name="N1" maxlenth="30" size="20" title="enter text only" value="+91" require>
+date of birth:
+<input type="date" name="N1" maxlenth="30" size="20" title="enter text only" placeholder="DD-MM-YY" require>
+Age:
+<input type="number" name="N1" maxlenth="30" size="20" title="enter text only" placeholder="enter DOB" require>
+password:
+<input type="password" name="N1" maxlenth="30" size="20" title="enter text only" placeholder="enter 6 digit" require>
+photo:
+<input type="file" name="N1" maxlenth="30" size="20" title="enter text only" placeholder="enter photo" require>
+submit:
+<input type="button" name="N1" maxlenth="30" size="20" title="enter text only" title="submit" require>
+</form>
+</pre>
+</body>
+
+</html>
